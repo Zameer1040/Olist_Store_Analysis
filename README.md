@@ -17,7 +17,7 @@ To analyze and derive insights to answer crucial questions and help the store ma
  -  Average number of days taken for order_delivered_customer_date for pet shop.
  -  Average price and payment values from customers of Sao Paulo city
  -  Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp) Vs review scores.
- -  
+    
 ## Skills/ Concepts Demonstrated
 - The following skills were incorporated:
    - Excel (pivot tables, charts, conditional formatting, VBA Macros, Slicers, Power Pivot.)
@@ -36,14 +36,14 @@ Adjusted data model According To Data Schema. Dimension tables are joined to the
 The Report Comprises 3 Dashboards:
 
   1. Excel Dashboard
-  2. 
+     
    ![](https://github.com/Zameer1040/Olist_Store_Analysis/blob/main/Excel_Dashboard.png)
 
-  3. Tableau Dashboard
-  4. 
+  2. Tableau Dashboard
+   
     ![](https://github.com/Zameer1040/Olist_Store_Analysis/blob/main/Tableau%20Dashboard.png)
 
-  5. PowerBi Dashboards
+  3. PowerBi Dashboards
      
      Dashboard 1
      
