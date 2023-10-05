@@ -41,7 +41,7 @@ The Report Comprises 3 Dashboards:
 
   2. Tableau Dashboard
    
-    ![](https://github.com/Zameer1040/Olist_Store_Analysis/blob/main/Tableau%20Dashboard.png)
+   ![](https://github.com/Zameer1040/Olist_Store_Analysis/blob/main/Tableau%20Dashboard.png)
 
   3. PowerBi Dashboards
      
